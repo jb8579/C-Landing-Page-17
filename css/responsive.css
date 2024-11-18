@@ -1,0 +1,597 @@
+@media screen and (max-width: 600px) {
+    .top10ukcasinolist-disclaimer > p {
+        font-size: 10px;
+        line-height: 12px;
+        padding: 2px 0px 4px 0px;
+    }
+
+    .top10ukcasinolist-bonus-bottom-offer {
+        margin-bottom: 8px;
+    }
+
+    .top10ukcasinolist-listIconWrap {
+        border-radius: 0px; 
+    }
+
+    .top10ukcasinolist-disclaimer > p > img {
+        width: 16px;
+    }
+
+    .top10ukcasinolist-banner-content > h1 {
+        font-size: 22px;
+        margin: 0px;
+    }
+
+    .top10ukcasinolist-banner-content > p {
+        font-size: 12px;
+        line-height: 18px;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .top10ukcasinolist-banner-content > p > button.myBtn {
+        font-size: 12px;
+    }
+
+    .top10ukcasinolist-trust-area {
+        gap: 10px;
+        margin: 8px 0px 0px 0px; 
+    }
+
+    .top10ukcasinolist-bonus-bottom-offer > p {
+        font-size: 8px;
+    }
+
+    .top10ukcasinolist-bonus-bottom-offer > p  > button.myBtn {
+        font-size: 8px;
+    }
+
+    .top10ukcasinolist-trust-card > p {
+        font-size: 11px;
+    }
+
+    .top10ukcasinolist-logoImg img {
+        width: 200px;
+        top: 0px;
+    }
+
+    .top10ukcasinolist-cardBody {
+        display: flex;
+        align-items: center;
+        width: 100%;
+        margin-right: 0px;
+        flex-direction: column;
+    }
+
+    .top10ukcasinolist-ratingsWrapper {
+        position: absolute;
+        left: 0;
+        transform: translate(10px, 105px);
+        gap: 0px;
+    }
+
+    .top10ukcasinolist-banner-content > h1 {
+        padding: 44px 0px 10px 0px;
+    }
+
+    .top10ukcasinolist-cardBonusTitle p {
+        font-size: 13px;
+        height: 96px;
+        position: relative;
+        transform: translate(-10%, 10px);
+    }
+
+    .top10ukcasinolist-logoWrapper {
+        width: 50%;
+    }
+
+    .top10ukcasinolist-cardBonusTitle p > span {
+        font-size: 15px;
+        font-weight: 600;
+    }
+
+    .top10ukcasinolist-cardBonusTitle p {
+        font-size: 17px !important;
+    }
+
+    .top10ukcasinolist-btnCard {
+        font-size: 13px;
+        width: 100%;
+        height: 44px;
+        top: -18px;
+        min-width: 175px;
+        transform: translate(-5%, 0px);
+    }
+
+    .top10ukcasinolist-review-grid {
+        width: 105px;
+    }
+
+    .top10ukcasinolist-rating-star > ul > li {
+        font-size: 14px;
+    }
+
+    .top10ukcasinolist-value {
+        font-size: 20px;
+    }
+
+    .top10ukcasinolist-value > span {
+        font-size: 12px;
+    }
+
+    .top10ukcasinolist-disclaimer {
+        margin-bottom: 15px;
+    }
+
+    .top10ukcasinolist-servicesContext {
+        padding: 15px 5px;
+        border-radius: 0px;
+    }
+
+    h2.top10ukcasinolist-servicesTitle {
+        font-size: 20px;
+    }
+
+    p.top10ukcasinolist-wrapper-p {
+        font-size: 13px;
+        line-height: 20px;
+        margin: 15px 0px 25px 0px;
+    }
+
+    .top10ukcasinolist-list-text > p {
+        font-size: 12px;
+        padding: 8px 0px;
+        margin: 0px;
+        line-height: 17px;
+    }
+
+    .top10ukcasinolist-listIconWrap {
+        gap: 8px;
+        margin-bottom: 20px;
+        padding: 6px;
+    }
+
+    .top10ukcasinolist-list-text > h3 {
+        font-size: 14px;
+    }
+
+    .top10ukcasinolist-iconPhoto {
+        min-width: 50px;
+        height: 46px;
+    }
+
+    .top10ukcasinolist-iconPhoto > img {
+        width: 32px;
+        height: 32px;
+        transform: translateY(5px);
+    }
+
+    .top10ukcasinolist-list-table {
+        padding: 20px 0px;
+    }
+
+    .top10ukcasinolist-aboutText {
+        border-radius: 0px;
+        padding: 15px;
+        margin: 30px 0px;
+    }
+
+    .top10ukcasinolist-aboutText > h2 {
+        font-size: 20px;
+        margin: 10px 0px 8px 0px;
+    }
+
+    .top10ukcasinolist-aboutText > h3 {
+        font-size: 15px;
+        margin: 15px 0px 0px 0px;
+    }
+
+    .top10ukcasinolist-faqText {
+        border-radius: 0px;
+        padding: 15px;
+        margin: 30px 0px;
+    }
+
+    .top10ukcasinolist-faqText > h2 {
+        font-size: 20px;
+        margin: 10px 0px 8px 0px;
+    }
+
+    .top10ukcasinolist-faqText > h3 {
+        font-size: 15px;
+        margin: 15px 0px 0px 0px;
+    }
+
+    .top10ukcasinolist-three-OfferCardWrap {
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: unset;
+        gap: 20px;
+        width: 100%;
+        padding: 0px 0;
+        flex-direction: column;
+    }
+
+    .top10ukcasinolist-topThree {
+        padding-bottom: 30px;
+    }
+
+    .top10ukcasinolist-footer {
+        padding: 30px 10px;
+    }
+
+    .top10ukcasinolist-footer-link > p {
+        margin: 12px 0px;
+    }
+
+    .top10ukcasinolist-footer-link > ul {
+        margin: 0px 0px;
+        padding: 0px;
+        list-style: none;
+        text-align: center;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .top10ukcasinolist-copyright {
+        font-size: 13px;
+        line-height: 16px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        margin: 0px;
+        word-spacing: 0px;
+    }
+
+    .top10ukcasinolist-copyright > p{
+        padding: 0px;
+        margin: 0px;
+    }
+
+    footer img.top10ukcasinolist-footer-ico {
+        max-width: 140px;
+    }
+
+    h2.top10ukcasinolist-sub-title {
+        font-size: 24px;
+    }
+
+    .top10ukcasinolist-subpages-context > h5 {
+        font-size: 14px;
+        padding: 8px 0px;
+    }
+
+    .top10ukcasinolist-subpages-context > p {
+        font-size: 13px;
+        font-weight: 300;
+        line-height: 20px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+}
+
+
+@media only screen and (max-width: 868px) and (min-width: 601px){
+    .top10ukcasinolist-disclaimer > p {
+        font-size: 10px;
+        line-height: 12px;
+        padding: 2px 0px 4px 0px;
+    }
+
+    .top10ukcasinolist-disclaimer > p > img {
+        width: 16px;
+    }
+
+    .top10ukcasinolist-banner-content > h1 {
+        font-size: 34px;
+        line-height: 45px;
+    }
+
+    .top10ukcasinolist-banner-content > p {
+        font-size: 13px;
+        line-height: 20px;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .top10ukcasinolist-banner-content > p > button.myBtn {
+        font-size: 12px;
+    }
+
+    .top10ukcasinolist-bonus-bottom-offer > p {
+        font-size: 8px;
+    }
+
+    .top10ukcasinolist-bonus-bottom-offer > p  > button.myBtn {
+        font-size: 8px;
+    }
+
+    .top10ukcasinolist-cardBody {
+        display: flex;
+        align-items: center;
+        width: 100%;
+        margin-right: 0px;
+        flex-direction: column;
+    }
+
+    .top10ukcasinolist-ratingsWrapper {
+        position: absolute;
+        left: 0;
+        transform: translate(10px, 105px);
+        gap: 0px;
+    }
+
+    .top10ukcasinolist-cardBonusTitle p {
+        font-size: 15px;
+        height: 96px;
+        position: relative;
+        transform: translate(-10%, 10px);
+    }
+
+    .top10ukcasinolist-logoWrapper {
+        width: 50%;
+    }
+
+    .top10ukcasinolist-cardBonusTitle p > span {
+        font-size: 22px;
+        font-family: "Poppins", sans-serif;
+        font-weight: 600;
+    }
+
+    .top10ukcasinolist-btnCard {
+        font-size: 13px;
+        width: 100%;
+        height: 44px;
+        top: -18px;
+        min-width: 200px;
+        transform: translateX(50px);
+    }
+
+    .top10ukcasinolist-review-grid {
+        width: 190px;
+    }
+
+    .top10ukcasinolist-rating-star > ul > li {
+        font-size: 14px;
+    }
+
+    .top10ukcasinolist-value {
+        font-size: 20px;
+    }
+
+    .top10ukcasinolist-value > span {
+        font-size: 12px;
+    }
+
+    .top10ukcasinolist-disclaimer {
+        margin-bottom: 15px;
+    }
+
+    .top10ukcasinolist-servicesContext {
+        padding: 15px 15px;
+        border-radius: 0px;
+    }
+
+    h2.top10ukcasinolist-servicesTitle {
+        font-size: 20px;
+    }
+
+    p.top10ukcasinolist-wrapper-p {
+        font-size: 13px;
+        line-height: 20px;
+        margin: 15px 0px 25px 0px;
+    }
+
+    .top10ukcasinolist-list-text > p {
+        font-size: 12px;
+        padding: 8px 0px;
+        margin: 0px;
+        line-height: 17px;
+    }
+
+    .top10ukcasinolist-listIconWrap {
+        gap: 8px;
+        margin-bottom: 20px;
+        padding: 6px;
+    }
+
+    .top10ukcasinolist-list-text > h3 {
+        font-size: 14px;
+    }
+
+    .top10ukcasinolist-iconPhoto {
+        min-width: 50px;
+        height: 46px;
+    }
+
+    .top10ukcasinolist-iconPhoto > img {
+        width: 32px;
+        height: 32px;
+        transform: translateY(-16px);
+    }
+
+    .top10ukcasinolist-list-table {
+        padding: 20px 0px;
+    }
+
+    .top10ukcasinolist-aboutText {
+        border-radius: 0px;
+        padding: 15px;
+        margin: 30px 0px;
+    }
+
+    .top10ukcasinolist-aboutText > h2 {
+        font-size: 20px;
+        margin: 10px 0px 8px 0px;
+    }
+
+    .top10ukcasinolist-aboutText > h3 {
+        font-size: 15px;
+        margin: 15px 0px 0px 0px;
+    }
+
+    .top10ukcasinolist-three-OfferCardWrap {
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: unset;
+        gap: 20px;
+        width: 100%;
+        padding: 0px 0;
+        flex-direction: column;
+    }
+
+    .top10ukcasinolist-topThree {
+        padding-bottom: 30px;
+    }
+
+    .top10ukcasinolist-footer {
+        padding: 30px 10px;
+    }
+
+    .top10ukcasinolist-footer-link > p {
+        margin: 12px 0px;
+    }
+
+    .top10ukcasinolist-footer-link > ul {
+        margin: 0px 0px;
+        padding: 0px;
+        list-style: none;
+        text-align: left;
+    }
+
+    .top10ukcasinolist-copyright {
+        font-size: 13px;
+        line-height: 16px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        margin: 0px;
+        word-spacing: 0px;
+    }
+
+    .top10ukcasinolist-copyright > p{
+        padding: 0px;
+        margin: 0px;
+    }
+
+    footer img.top10ukcasinolist-footer-ico {
+        max-width: 140px;
+    }
+    
+    .top10ukcasinolist-bonus-bottom-offer {
+        margin-bottom: 15px;
+    }
+
+    h2.top10ukcasinolist-sub-title {
+        font-size: 24px;
+    }
+
+    .top10ukcasinolist-subpages-context > h5 {
+        font-size: 14px;
+        padding: 8px 0px;
+    }
+
+    .top10ukcasinolist-subpages-context > p {
+        font-size: 13px;
+        font-weight: 300;
+        line-height: 20px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+}
+
+
+
+@media only screen and (max-width: 360px) and (min-width: 300px){
+    
+    .top10ukcasinolist-review-grid {
+        width: 88px !important;
+    }
+
+    .top10ukcasinolist-btnCard {
+        height: 32px !important;
+        font-size: 11px !important;
+    }
+
+    .top10ukcasinolist-rating-star > ul > li {
+        font-size: 12px !important;
+    }
+
+    .top10ukcasinolist-cardBonusTitle p {
+        height: 105px;
+    }
+}
+
+@media only screen and (max-width: 390px) and (min-width: 300px){
+    .top10ukcasinolist-trust-card > p {
+        font-size: 10px;
+    }
+
+    .top10ukcasinolist-trust-card {
+        gap: 4px;
+    }
+
+    .top10ukcasinolist-review-grid {
+        width: 94px;
+    }
+
+    .top10ukcasinolist-btnCard {
+        font-size: 13px;
+        width: 100%;
+        height: 40px;
+        top: -18px;
+        min-width: 140px;
+        transform: translate(-5%, 0px);
+        padding: 0px 10px;
+    }
+
+    .top10ukcasinolist-logoImg img {
+        width: 170px;
+    }
+    
+}
+
+
+@media only screen and (max-width: 1100px) and (min-width: 947px){
+
+    .container, .container-md, .container-sm {
+        max-width: 100% !important;
+    }
+
+    .top10ukcasinolist-btnCard {
+        left: -20px;
+    }
+    
+
+    .top10ukcasinolist-cardBody {
+        grid-template-columns: auto 250px 190px;
+    }
+}
+
+
+@media only screen and (max-width: 946px) and (min-width: 869px){
+
+    .container, .container-md, .container-sm {
+        max-width: 100% !important;
+    }
+
+    .top10ukcasinolist-btnCard {
+        left: -20px;
+    }
+    
+    .top10ukcasinolist-rating-star > ul > li {
+        font-size: 14px;
+    }
+
+    .top10ukcasinolist-cardBody {
+        grid-template-columns: auto 200px 180px;
+    }
+}
+
+
+@media (min-width: 992px) {
+    body .container {
+        width: 1120px;
+        max-width: 98vw;
+    }
+}
