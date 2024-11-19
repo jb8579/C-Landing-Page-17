@@ -175,7 +175,7 @@ canvas.particles-js-canvas-el {
 }
 
 .top10ukcasinolist-logoImg img {
-    width: 256px;
+    width: 230px;
     height: 134px;
     border-radius: 3px 0 0 3px;
     object-fit: contain;
@@ -230,7 +230,7 @@ canvas.particles-js-canvas-el {
 
 .top10ukcasinolist-cardBonusTitle p > span {
     font-size: 18px;
-    color: #ffffff;
+    color: #83ff00;
     font-family: "Poppins", sans-serif;
     font-weight: 600;
 }
@@ -367,12 +367,12 @@ a.top10ukcasinolist-btnCard > img {
 
 .top10ukcasinolist-bonus-bottom-offer > p {
     font-family: "Montserrat", serif;
-    font-size: 10px;
+    font-size: 9px;
     color: #000000;
     line-height: 12px;
     margin: 0px;
-    padding: 4px;
-    font-weight: 500;
+    padding: 6px 40px;
+    font-weight: 600;
     text-align: center;
     border-bottom: 1px solid #0c0c0c1c;
 }
