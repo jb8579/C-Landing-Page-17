@@ -546,34 +546,75 @@
         <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
         <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
         <script>
-        document.querySelectorAll('.top10ukcasinolist-table-card').forEach((card) => {
-            card.addEventListener('mouseenter', () => {
+            document.querySelectorAll('.top10ukcasinolist-table-card').forEach((card, index) => {
+                // Enable continuous sparkle animation for the first card
+                if (index === 0) {
+                    setInterval(() => {
+                        addSparkles(card);
+                    }, 500); // Create sparkles at intervals for continuous effect
+                } else {
+                    // Sparkles on hover for other cards
+                    card.addEventListener('mouseenter', () => {
+                        addSparkles(card);
+                    });
+        
+                    card.addEventListener('mouseleave', () => {
+                        card.querySelectorAll('.sparkle').forEach((sparkle) => sparkle.remove());
+                    });
+                }
+            });
+        
+            function addSparkles(card) {
                 for (let i = 0; i < 20; i++) { // Adjust the number of sparkles
                     const sparkle = document.createElement('div');
                     sparkle.classList.add('sparkle');
-
+        
                     // Randomize position and animation
                     sparkle.style.left = Math.random() * 100 + '%';
                     sparkle.style.top = Math.random() * 100 + '%';
                     sparkle.style.setProperty('--x', Math.random());
                     sparkle.style.setProperty('--y', Math.random());
                     sparkle.style.animationDelay = `${Math.random() * 1.5}s`; // Stagger animation
-
+        
                     card.appendChild(sparkle);
-
+        
                     // Remove sparkle after animation ends
                     setTimeout(() => {
                         sparkle.remove();
                     }, 3000); // Matches animation duration
                 }
+            }
+        </script>
+        
+        <script>
+            // Disable specific keyboard shortcuts globally
+            document.addEventListener('keydown', function (e) {
+                // Disable F12 (Developer Tools)
+                if (e.key === 'F12') {
+                    e.preventDefault();
+                }
+                // Disable Ctrl+Shift+I (Inspect Element)
+                if (e.ctrlKey && e.shiftKey && e.key === 'I') {
+                    e.preventDefault();
+                }
+                // Disable Ctrl+Shift+J (Console)
+                if (e.ctrlKey && e.shiftKey && e.key === 'J') {
+                    e.preventDefault();
+                }
+                // Disable Ctrl+U (View Source)
+                if (e.ctrlKey && e.key === 'u') {
+                    e.preventDefault();
+                }
+                // Disable Ctrl+Shift+U (alternative View Source method)
+                if (e.ctrlKey && e.shiftKey && e.key === 'U') {
+                    e.preventDefault();
+                }
             });
 
-            card.addEventListener('mouseleave', () => {
-                // Clean up sparkles if user leaves early
-                card.querySelectorAll('.sparkle').forEach((sparkle) => sparkle.remove());
+            // Disable drag event for the entire body (to prevent dragging elements)
+            document.body.addEventListener('dragstart', function (e) {
+                e.preventDefault(); // Prevent dragging on the body
             });
-        });
-
         </script>
     </body>
 </html>
